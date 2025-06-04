@@ -68,8 +68,9 @@ header h1 {
   color: #fff;
   border-radius: 5px;
   cursor: pointer;
+  font-size: 0.7em
 }
-  
+
 
 .leftbut {
   background-color: #1FAAE4;
@@ -111,8 +112,8 @@ li .main-topic {
   display: inline-block;
   vertical-align: middle;
 }
- 
-  
+
+
 
 /*cerchio rosso*/
 .circle-false {
@@ -129,6 +130,7 @@ li .main-topic {
 .text {
   vertical-align: middle;
 }
+
 /*badge*/
 .badge {
   display: inline;
@@ -154,25 +156,22 @@ li .main-topic {
 }
 
 /*color of the badges*/
-.bg-violet{
+.bg-violet {
   background-color: #9D74E4;
 }
-.bg-green{
+
+.bg-green {
   background-color: #65C0A7;
 }
-.bg-orange{
+
+.bg-orange {
   background-color: #EB9C38;
 }
-.bg-fuchsia{
+
+.bg-fuchsia {
   background-color: #D765A2;
 }
-.bg-lightgreen{
+
+.bg-lightgreen {
   background-color: #AFC733;
 }
-
-
-
-
-
- 
-
