@@ -24,7 +24,9 @@ body {
   background-color: #fff;
   line-height: 100px;
   padding-left: 20px;
+  margin-bottom: 30px;
 }
+
 
 .logo {
   vertical-align: middle;
@@ -34,4 +36,22 @@ header h1 {
   vertical-align: middle;
   font-weight: 900;
   font-size: 2.8em
+}
+
+/*main*/
+.box {
+  background-color: #fff;
+  border-radius: 10px;
+}
+ 
+
+.primary-tab {
+  height: 100px;
+  border-bottom: 2px solid lightgrey;
+}
+
+  
+
+.secondary-tab {
+  height: 100px;
 }
