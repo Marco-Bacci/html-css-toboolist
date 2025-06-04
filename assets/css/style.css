@@ -42,17 +42,18 @@ header h1 {
 .box {
   background-color: #fff;
   border-radius: 10px;
+  
 }
 
 
-.primary-tab {
+.small-tab {
   padding: 10px 20px;
   border-bottom: 2px solid lightgrey;
 }
 
 
 
-.secondary-tab {
+.big-tab {
   padding: 10px 20px;
 }
 
@@ -76,3 +77,5 @@ header h1 {
   background-color: #fff;
   color: lightgray;
 }
+
+/* big tab*/
