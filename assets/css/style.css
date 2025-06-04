@@ -149,6 +149,22 @@ li .main-topic {
   vertical-align: middle;
 }
 
+/*color of the badges*/
+.bg-violet{
+  background-color: #9D74E4;
+}
+.bg-green{
+  background-color: #65C0A7;
+}
+.bg-orange{
+  background-color: #EB9C38;
+}
+.bg-fuchsia{
+  background-color: #D765A2;
+}
+.bg-lightgreen{
+  background-color: #AFC733;
+}
 
 
 
