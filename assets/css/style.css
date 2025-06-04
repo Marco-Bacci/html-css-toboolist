@@ -14,10 +14,22 @@ body {
   margin: 0 auto;
   max-width: 1080px;
 }
-.d-inline-block{
-  display: inline-block;
+
+.d-inline {
+  display: inline;
 }
-.bar{
+
+.bar {
   height: 100px;
   background-color: #fff;
+  line-height: 100px;
+  padding-left: 20px;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+h1 {
+  vertical-align: middle;
 }
