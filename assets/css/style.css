@@ -13,12 +13,13 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1080px;
+  
 }
 
 .d-inline {
   display: inline;
 }
-
+ 
 .bar {
   height: 100px;
   background-color: #fff;
@@ -42,7 +43,7 @@ header h1 {
 .box {
   background-color: #fff;
   border-radius: 10px;
-  
+
 }
 
 
@@ -70,7 +71,7 @@ header h1 {
 
 .leftbut {
   background-color: #1FAAE4;
-  border-color:#1FAAE4;
+  border-color: #1FAAE4;
 }
 
 .rightbut {
@@ -82,11 +83,22 @@ header h1 {
 
 /*cerchio*/
 
-.circle{
-
+.circle {
+  padding: 5px;
+  border-radius: 50px;
+  text-align: center;
+  line-height: center;
+  border-color: 2px solid green;
+  display: inline-block;
 }
 
-/*badge*/
-.badge{
 
+/*badge*/
+.badge {
+  display: inline;
+  padding: 5px 10px;
+  border: 2px solid transparent;
+  color: #fff;
+  border-radius: 15px;
+  cursor: pointer;
 }
