@@ -43,15 +43,36 @@ header h1 {
   background-color: #fff;
   border-radius: 10px;
 }
- 
+
 
 .primary-tab {
-  height: 100px;
+  padding: 10px 20px;
   border-bottom: 2px solid lightgrey;
 }
 
-  
+
 
 .secondary-tab {
-  height: 100px;
+  padding: 10px 20px;
+}
+
+/* fake buttoms*/
+
+.but {
+  display: inline-block;
+  padding: 5px 10px;
+  border: 2px solid lightgray;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.leftbut {
+  background-color: #1FAAE4;
+  border-color:#1FAAE4;
+}
+
+.rightbut {
+  background-color: #fff;
+  color: lightgray;
 }
