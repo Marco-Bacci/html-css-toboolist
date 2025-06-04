@@ -97,9 +97,9 @@ li .main-topic {
 
 
 
-/*cerchio*/
+/*cerchio verde*/
 
-.circle {
+.circle-true {
   height: 25px;
   width: 25px;
   color: green;
@@ -107,23 +107,38 @@ li .main-topic {
   text-align: center;
   border: 2px solid currentColor;
   display: inline-block;
-  line-height: 25px;
+  vertical-align: middle;
+}
+ 
+  
+
+/*cerchio rosso*/
+.circle-false {
+  height: 25px;
+  width: 25px;
+  color: red;
+  border-radius: 50px;
   text-align: center;
+  border: 2px solid currentColor;
+  display: inline-block;
   vertical-align: middle;
 }
 
 .text {
   vertical-align: middle;
 }
-
-
-
-
-
-
-
 /*badge*/
 .badge {
+  display: inline;
+  padding: 5px 10px;
+  border: 2px solid transparent;
+  color: #ffffff;
+  border-radius: 15px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.badge-editorial {
   display: inline;
   padding: 5px 10px;
   border: 2px solid transparent;
@@ -133,3 +148,11 @@ li .main-topic {
   cursor: pointer;
   vertical-align: middle;
 }
+
+
+
+
+
+
+ 
+
