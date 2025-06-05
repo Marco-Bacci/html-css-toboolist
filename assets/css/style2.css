@@ -147,17 +147,6 @@ li .main-topic {
   font-size: 0.6em;
 }
 
-.badge-editorial {
-  display: inline;
-  padding: 2px 5px;
-  border: 2px solid transparent;
-  color: #ffffff;
-  background-color: #1FAAE4;
-  border-radius: 15px;
-  cursor: pointer;
-  vertical-align: middle;
-  font-size: 0.6em;
-}
 
 /*color of the badges*/
 .bg-violet {
@@ -178,4 +167,7 @@ li .main-topic {
 
 .bg-lightgreen {
   background-color: #AFC733;
+}
+.bg-blue{
+  background-color: #1FAAE4;
 }
